@@ -9,7 +9,7 @@ on:
 
 defaults:
   run:
-    shell: bash
+    shell: bash 
 
 env:
   IBM_ACCOUNT: ${{ secrets.IBM_ACCOUNT }}
